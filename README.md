@@ -53,7 +53,7 @@ XAMPP → C:/xampp/htdocs/ecommerce/
 
 Admin Panel
 
-URL: http://localhost/ecommerce/admin/
+URL: http://localhost/ecommerce/
 
 Email: admin@ecommerce.com
 
